@@ -1,0 +1,22 @@
+{
+  "name": "SENG 513 A3 Chat App",
+  "description": "my first socket.io app",
+  "website": "https://github.com/socketio/chat-example",
+  "repository": "https://github.com/kkcmah/SENG513A3",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
