@@ -16,6 +16,6 @@ To run the code:
 
 NOTE:
 - For multiple users, open multiple tabs.
-- To change nickname enter on send box of the chatroom /nick {new nickname}
-- To change color of nickname enter on send box of the chatrrom /nickcolor RRGGBB (Ex.65B891)
+- To change nickname enter in the send box of the chatroom: /nick {new nickname} (Ex. /nick Ana)
+- To change color of nickname enter in the send box of the chatroom: /nickcolor RRGGBB (Ex. /nickcolor 65B891)
 
